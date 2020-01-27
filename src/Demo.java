@@ -5,7 +5,7 @@ public class Demo {
     DiscountStrategy strategy = null;
 
     int selectedStrat = Integer.parseInt(argv[0]);
-    float amt = Float.parseFloat(argv[1]);
+    //float amt = Float.parseFloat(argv[1]);
 
     switch(selectedStrat) {
     case 1:
